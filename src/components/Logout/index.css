@@ -1,0 +1,14 @@
+.logout {
+    border: none;
+    background: transparent;
+    display: flex;
+    align-items: center;
+    color: #D11C1C;
+    cursor: pointer;
+    font-weight: bold;
+    padding: 0; 
+    margin-bottom: 20px;
+}
+.logout img {
+    padding-right: 10px;
+}
